@@ -1,0 +1,7 @@
+\\192.168.49.168\osep\ProcessHollow\ProcessHollow\bin\x64\Release\ProcessHollow.exe.config
+\\192.168.49.168\osep\ProcessHollow\ProcessHollow\bin\x64\Release\ProcessHollow.exe
+\\192.168.49.168\osep\ProcessHollow\ProcessHollow\bin\x64\Release\ProcessHollow.pdb
+\\192.168.49.168\osep\ProcessHollow\ProcessHollow\obj\x64\Release\ProcessHollow.csprojAssemblyReference.cache
+\\192.168.49.168\osep\ProcessHollow\ProcessHollow\obj\x64\Release\ProcessHollow.csproj.CoreCompileInputs.cache
+\\192.168.49.168\osep\ProcessHollow\ProcessHollow\obj\x64\Release\ProcessHollow.exe
+\\192.168.49.168\osep\ProcessHollow\ProcessHollow\obj\x64\Release\ProcessHollow.pdb
